@@ -39,5 +39,8 @@
     "build": {
       "dependsOn": ["^build"]
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }

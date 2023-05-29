@@ -1,6 +1,6 @@
 {
   "name": "ngx-mapbox-gl-srcs",
-  "version": "9.1.0",
+  "version": " 10.0.0",
   "license": "MIT",
   "scripts": {
     "start": "nx serve showcase",
@@ -73,6 +73,7 @@
   },
   "packageManager": "yarn@3.2.1",
   "dependencies": {
+    "@angular-eslint/schematics": "^1.0.0",
     "@angular/animations": "14.1.1",
     "@angular/cdk": "14.1.1",
     "@angular/common": "14.1.1",

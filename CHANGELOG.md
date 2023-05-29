@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [10.0.0](https://github.com/Wykks/ngx-mapbox-gl/compare/v9.1.1...v10.0.0) (2023-05-29)
+
+### Features
+
+- Updated to Angular 16
+
 ## [9.1.0](https://github.com/Wykks/ngx-mapbox-gl/compare/v8.0.1...v9.1.0) (2022-08-06)
 
 ### Features
