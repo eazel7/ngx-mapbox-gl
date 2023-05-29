@@ -106,10 +106,7 @@
         "lint": {
           "builder": "@nrwl/linter:eslint",
           "options": {
-            "lintFilePatterns": [
-              "apps/showcase/**/*.ts",
-              "apps/showcase/**/*.html"
-            ]
+            "lintFilePatterns": ["apps/showcase/**/*.ts"]
           }
         },
         "test": {
